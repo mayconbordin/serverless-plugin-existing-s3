@@ -1,0 +1,59 @@
+{
+  "name": "serverless-plugin-existing-s3",
+  "version": "2.0.4",
+  "description": "Attach Lambda events to an existing S3 bucket, for Serverless.com 1.11.0+.",
+  "main": "index.js",
+  "homepage": "https://github.com/mayconbordin/serverless-plugin-existing-s3",
+  "dependencies": {},
+  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "Matt Filion",
+      "email": "matt.filion@gmail.com"
+    }
+  ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "package.json",
+    "Permissions.js",
+    "S3.js",
+    "Transformer.js"
+  ],
+  "contributors": [
+    {
+      "name": "Matt Filion",
+      "email": "matt.filion@gmail.com"
+    },
+    {
+      "name": "Justin Hart",
+      "email": "npm@onyxraven.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayconbordin/serverless-plugin-existing-s3"
+  },
+  "bugs": {
+    "url": "https://github.com/mayconbordin/serverless-plugin-existing-s3/issues"
+  },
+  "author": {
+    "name": "Matt Filion",
+    "email": "matt.filion@gmail.com"
+  },
+  "private": false,
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jeremyosborne/packagejsonexample/blob/master/LICENSE.txt"
+    }
+  ],
+  "keywords": [
+    "s3",
+    "event",
+    "notifications",
+    "serverless",
+    "serverless.com"
+  ]
+}
